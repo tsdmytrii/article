@@ -1,0 +1,1 @@
+New article has been created successfuly!
