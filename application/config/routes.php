@@ -40,8 +40,8 @@
 $route['default_controller'] = 'frontend/article';
 $route['404_override'] = '';
 $route['article/create'] = 'article/create';
-$route['index.php/article/index/(any:)'] = '$1';
-
+//$route['index.php/article/index/(any:)'] = '$1';
+//$route['article'] = 'frontend/article/';
 
 
 /* End of file routes.php */
